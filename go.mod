@@ -1,3 +1,3 @@
-module docker-demo-2
+module docker-demo-go
 
 go 1.15
